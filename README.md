@@ -1,6 +1,4 @@
 # News website
-
-## Description
 A frontend news website implemented by Bootstrap 5, HTML, and CSS.
 
 ## Pre-requisite
